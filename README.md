@@ -8,4 +8,4 @@ Hi! This javascript will help you to convert voice to text with javascript.
 
 ![enter image description here](https://i.ibb.co/fpXSDpS/image.png)		
 
-CHANGE YOUR LANGUAGE : [Check Here for your lanuage code](https://www.w3schools.com/tags/ref_language_codes.asp)
+CHANGE YOUR LANGUAGE : [Check Here for your lanuage code](https://www.w3schools.com/tags/ref_language_codes.asp) Deault is tamil [ta]
