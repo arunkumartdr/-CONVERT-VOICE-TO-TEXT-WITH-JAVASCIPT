@@ -2,6 +2,8 @@
 
 Hi! This javascript will help you to convert voice to text with javascript.
 
+- see index.html for code
+
 # Support In Browsers
 
 [Check Here to check browser support in Caniuse](https://caniuse.com/speech-recognition)
